@@ -1,0 +1,204 @@
+1710323067213	geckodriver	INFO	Listening on 127.0.0.1:63040
+1710323070272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofileijMQ2S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323071121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323071206	Marionette	INFO	Listening on port 63053
+WebDriver BiDi listening on ws://127.0.0.1:63041
+Read port: 63053
+1710323071475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63041/devtools/browser/914d422e-1ed6-43ed-9091-ac5c4b1a3add
+1710323074295	Marionette	INFO	Stopped listening on port 63053
+Dynamically enable window occlusion 1
+1710323092434	geckodriver	INFO	Listening on 127.0.0.1:63096
+1710323095473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofileT8eMSk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323095780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323095839	Marionette	INFO	Listening on port 63106
+WebDriver BiDi listening on ws://127.0.0.1:63097
+Read port: 63106
+1710323096000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63097/devtools/browser/5348d67a-9c18-4483-a2e9-5b0aded4aeea
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+1710323098228	Marionette	INFO	Stopped listening on port 63106
+Dynamically enable window occlusion 1
+1710323231171	geckodriver	INFO	Listening on 127.0.0.1:63356
+1710323234202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofileRkBhZC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323234522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323234582	Marionette	INFO	Listening on port 63365
+WebDriver BiDi listening on ws://127.0.0.1:63357
+Read port: 63365
+1710323234787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63357/devtools/browser/fb0a43ee-e206-4fde-8362-c443ebde8acd
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+1710323237073	Marionette	INFO	Stopped listening on port 63365
+Dynamically enable window occlusion 1
+1710323407707	geckodriver	INFO	Listening on 127.0.0.1:63624
+1710323410796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofileX0WFT2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323411094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323411153	Marionette	INFO	Listening on port 63636
+WebDriver BiDi listening on ws://127.0.0.1:63625
+Read port: 63636
+1710323411322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63625/devtools/browser/c6af31df-83ec-4d79-9c40-37e027c25810
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+1710323413955	Marionette	INFO	Stopped listening on port 63636
+JavaScript warning: https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b1e4a68822e0b, line 1: Script terminated by timeout at:
+@https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b1e4a68822e0b:1:5237
+
+Dynamically enable window occlusion 1
+1710323435175	geckodriver	INFO	Listening on 127.0.0.1:63688
+1710323438213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofileSWGWLi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323438530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323438599	Marionette	INFO	Listening on port 63701
+WebDriver BiDi listening on ws://127.0.0.1:63689
+Read port: 63701
+1710323438855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63689/devtools/browser/f7784b85-a258-4528-a950-0985d1ea1583
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+1710323441890	Marionette	INFO	Stopped listening on port 63701
+Dynamically enable window occlusion 1
+1710323525414	geckodriver	INFO	Listening on 127.0.0.1:63846
+1710323528488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofile5dLeto"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323528753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323528815	Marionette	INFO	Listening on port 63859
+WebDriver BiDi listening on ws://127.0.0.1:63847
+Read port: 63859
+1710323528983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63847/devtools/browser/11aa5912-83de-4990-ac36-5ff92e33bb97
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+1710323531395	Marionette	INFO	Stopped listening on port 63859
+Dynamically enable window occlusion 1
+1710323570896	geckodriver	INFO	Listening on 127.0.0.1:63935
+1710323573948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofilevPrzk2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323574214	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323574274	Marionette	INFO	Listening on port 63947
+WebDriver BiDi listening on ws://127.0.0.1:63936
+Read port: 63947
+1710323574425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63936/devtools/browser/9ee78101-7d59-486e-96a3-e8f8c2bd218d
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b22677d223a77, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710323587046	Marionette	INFO	Stopped listening on port 63947
+JavaScript warning: https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b2264dcd92d98, line 1: Script terminated by timeout at:
+iO@https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b2264dcd92d98:1:81497
+@https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b2264dcd92d98:1:68101
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b22677d223a77, line 1: Script terminated by timeout at:
+iO@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b22677d223a77:1:516190
+
+Dynamically enable window occlusion 1
+1710323682702	geckodriver	INFO	Listening on 127.0.0.1:64126
+1710323685773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofiledgWCno"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323686059	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323686118	Marionette	INFO	Listening on port 64136
+WebDriver BiDi listening on ws://127.0.0.1:64127
+Read port: 64136
+1710323686272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64127/devtools/browser/ef57fc98-9e64-4739-8742-755faf018471
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b2522b9e09d9c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710323698875	Marionette	INFO	Stopped listening on port 64136
+Dynamically enable window occlusion 1
+1710323708812	geckodriver	INFO	Listening on 127.0.0.1:64201
+1710323711890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofilenB9Y8v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323712159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323712219	Marionette	INFO	Listening on port 64214
+WebDriver BiDi listening on ws://127.0.0.1:64202
+Read port: 64214
+1710323712367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64202/devtools/browser/c7bbb680-5f59-4268-8d6d-425b23131117
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b25b81f333a8f, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://demo.opencart.com/index.php?route=product/product&language=en-gb&product_id=43, line 417: TypeError: $(...).magnificPopup is not a function
+1710323727805	Marionette	INFO	Stopped listening on port 64214
+Dynamically enable window occlusion 1
+1710323804397	geckodriver	INFO	Listening on 127.0.0.1:64457
+1710323807462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofilepzdbWk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710323807736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710323807803	Marionette	INFO	Listening on port 64468
+WebDriver BiDi listening on ws://127.0.0.1:64458
+Read port: 64468
+1710323808001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64458/devtools/browser/4ac3e6e7-7a9f-4580-ad5b-713de712f1eb
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b280f4cff9d52, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710323823893	Marionette	INFO	Stopped listening on port 64468
+Dynamically enable window occlusion 1
+1710324027006	geckodriver	INFO	Listening on 127.0.0.1:64751
+1710324030056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64752" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofile6A8d0V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710324030328	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710324030390	Marionette	INFO	Listening on port 64761
+WebDriver BiDi listening on ws://127.0.0.1:64752
+Read port: 64761
+1710324030558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64752/devtools/browser/ea8b8624-e36f-444c-9bc0-3faa09e69ac6
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b2d7d2f9f9d5b, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710324056064	Marionette	INFO	Stopped listening on port 64761
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b2d7d2f9f9d5b, line 1: Script terminated by timeout at:
+gs@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b2d7d2f9f9d5b:1:511251
+
+JavaScript warning: https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b2d7a9d5395eb, line 1: Script terminated by timeout at:
+jk@https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b2d7a9d5395eb:1:513207
+@https://demo.opencart.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=863b2d7a9d5395eb:1:71672
+
+Dynamically enable window occlusion 1
+1710324062928	geckodriver	INFO	Listening on 127.0.0.1:64828
+1710324065973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ilya3\\AppData\\Local\\Temp\\rust_mozprofileQUtNUP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710324066243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710324066302	Marionette	INFO	Listening on port 64839
+WebDriver BiDi listening on ws://127.0.0.1:64829
+Read port: 64839
+1710324066461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64829/devtools/browser/8b3cfab5-1715-4dd1-b4bf-dca99084351c
+JavaScript error: https://demo.opencart.com/catalog/view/javascript/common.js, line 3: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 193: ReferenceError: bootstrap is not defined
+JavaScript error: https://demo.opencart.com/, line 358: ReferenceError: bootstrap is not defined
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=863b2e5e38be9d4c, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1710324090072	Marionette	INFO	Stopped listening on port 64839
+Dynamically enable window occlusion 1
